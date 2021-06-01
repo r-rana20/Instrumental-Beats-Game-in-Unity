@@ -1,6 +1,3 @@
-# Unity-Game
-Simple games made in Unity
-
 # About the game:
 In this fun game, you can play 5 instrumental tunes by pressing certain keys on keyboard. Following instruments can be played: Drum, Flute, Piano, Violin and Xylophone.
 
